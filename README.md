@@ -8,7 +8,7 @@ I created this project to understand how Infrastructure as Code works and how se
 - Creates and EC2 instance using Terraform
 - Installs and start Nginx during instance creation
 - Deploy a simple HTML page automatically
-- The Nginx app is accessible using *ec2-public-ip*
+- The Nginx app is accessible using **EC2-PUBLIC-IP**
 
 
 ## Files used
