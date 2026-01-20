@@ -17,4 +17,4 @@ I created this project to understand how Infrastructure as Code works and how se
 
 
 ## Output
-Open the EC2-PUBLIC_IP in a browser
+Open the EC2-PUBLIC-IP in a browser
